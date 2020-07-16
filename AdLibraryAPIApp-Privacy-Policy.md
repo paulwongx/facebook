@@ -1,5 +1,3 @@
-
-
 ## Privacy Policy
 **App Type:** Server-to-Server. No user interface.
 
